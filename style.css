@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    padding-top: 10px;
+    padding-top: 15px;
     background-color: #502B08;
 }
 
@@ -18,7 +18,7 @@ header h1{
 }
 
 nav {
-    padding: 5px;
+    padding: 10px;
     background-color: #502B08;
 
 }
@@ -81,12 +81,12 @@ nav {
     position: absolute;
     margin: 0px;
     border-radius: 25px;
-    width: 50vh;
+    width: 49.5vh;
 }
 
 .playing {
     padding: 30px;
-    padding-top: 53vh;
+    padding-top: 50vh;
     position: inherit;
 
     font-size: 20px;
@@ -122,7 +122,7 @@ nav {
 
 .titlealbum {
     padding: 10vh;
-    padding-left: 25vh;
+    padding-left: 30vh;
     position: inherit;
 
     font-size: 30px;
@@ -134,7 +134,7 @@ nav {
 .divline {
     width: 506px;
     height: 0;
-    padding-top: 20vh;
+    padding-top: 15vh;
     
     
 }
@@ -150,7 +150,7 @@ nav {
     font-size: 20px;
     color: #f6f6f6;
     position: inherit;
-     margin-top: -7.4vh;
+     margin-top: -10vh;
 
      font-style: italic;
 }
@@ -166,7 +166,6 @@ a:visited {
 
 
 .songs ul {
-
     text-align: left;
     color: #f6f6f6;
     list-style-type: none;
@@ -229,7 +228,7 @@ a:visited {
 }
 
 .player img {
-    width: 5%;
+    width: 4%;
     height: auto;
     position: relative;
     margin-left: 2%;
@@ -238,7 +237,7 @@ a:visited {
 .titlebotttom {
     color: #f6f6f6;
     margin-top: -10vh;
-    margin-left: 18vh;
+    margin-left: 15vh;
 
     font-style: italic;
 }
